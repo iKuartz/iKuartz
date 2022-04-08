@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I am Ivan Silva!
+I am Ivan Silva! A Full-Stack developer passionate for learning, teaching, and all things tech! Welcome to my GitHub!
 
-## 🏅 Achievements
+<!-- ## 🏅 Achievements -->
 
 
 
