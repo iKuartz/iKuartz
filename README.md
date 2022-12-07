@@ -15,6 +15,7 @@ I am Ivan Silva! A Full-Stack developer passionate for learning, teaching, and a
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
+![java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white)
 
 ### Front-End Development
 
